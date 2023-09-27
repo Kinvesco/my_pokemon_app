@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 export const FooterWrap = styled.div`
-  .foot {
+.foot {
   text-align: left;
-  background-color: #F69311; 
+  background-color: #daa520;
   color: #ffffff;
   padding: 25px 10px 10px 10px;
   font-size: 12px;
@@ -17,21 +17,21 @@ export const FooterWrap = styled.div`
 
 .foot_item-logo{
   background-color: #ffffff;
-  padding: 1rem;
-  border-radius: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
 }
 
 .app-logo{
-  width: 20px;
+  width: 25px;
   height: auto;
   max-width: 100%;
-  margin-left: 12px;
+  margin-left: 10px;
 }
 
 .app-name{
-    width: 5rem;
-    height: 1.5rem;
-    margin-left: 12px;
+    width: 5.5rem;
+    height: 1.7rem;
+    margin-left: 10px;
 }
 
 .foot_flex img:hover {
@@ -54,7 +54,7 @@ export const FooterWrap = styled.div`
   padding: 0 7px 0 7px;
   margin-bottom: 15px;
   padding-top: 1px;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 p.last_p {
@@ -62,7 +62,7 @@ p.last_p {
 }
 
 .location-icon, .portfolio{
-  margin-top: 1.5rem;
+  margin-top: 1rem;
 }
 
 .social_icons, .contact-us, .our-portfolio{
@@ -70,7 +70,7 @@ p.last_p {
   flex-direction: row;
   justify-content: space-between;
   color: #ffffff;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .portfolio-link{
@@ -111,8 +111,8 @@ a{
 .copy {
   padding-top: 10px;
   text-align: center;
-  font-weight: 800;
-  font-size: 1.5rem;
+  font-weight: 900;
+  font-size: 1rem;
   color: #ffffff;
   border-top: #bdc2ca;
 }

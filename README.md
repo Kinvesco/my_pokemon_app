@@ -28,7 +28,8 @@ npm install react-router-dom is ran to make it a multiple page app
 ## Usage
 To use My Pokémon App, follow these steps:
 
-Open the app in your web browser by visiting the deployed URL.
+Open the app in your web browser by visiting Open the app in your web browser by visiting https://my-pokemon-app-puce.vercel.app/
+
 
 Browse Pokémon: You can scroll through the list of Pokémon displayed on the main page. Lazy loading ensures a smooth experience, even with a large number of Pokémon.
 

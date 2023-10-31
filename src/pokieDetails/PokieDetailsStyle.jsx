@@ -18,7 +18,7 @@ export const PokieDetailsStyle = styled.div`
       font-weight: 900;
       line-height: 1.4rem;
       margin-bottom: 5rem;
-      background-position: right bottom;
+      background-position: left bottom;
       transition: all 0.5s ease-in-out;
       background-color: #a47204;
       color: #ddebff;
